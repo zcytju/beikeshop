@@ -126,7 +126,7 @@ target="_blank">Click to Experience</a>
 1. **DIY Store Customization**
 
 <video width="100%" height="auto" controls>
-  <source src="https://github.com/beikeshop/beikeshop-resource/raw/refs/heads/master/img/DIY_Edit.mp4" type="video/mp4">
+  <source src="https://beikeshop.github.io/beikeshop-resource/DIY_Edit.mp4" type="video/mp4">
   Your browser does not support the HTML5 video tag.
 </video>
 
