@@ -27,7 +27,6 @@
 BeikeShop is a globally leading open-source e-commerce system based on the Laravel framework, designed for the international trade and cross-border e-commerce industry.
 The system is 100% open-source! It supports a wide range of practical features, including multi-language, multi-currency, payment, logistics, and member management, making it easy for foreign trade businesses to expand their independent online stores.
 
-
 ---
 
 # Framework
@@ -110,16 +109,12 @@ The system is 100% open-source! It supports a wide range of practical features, 
 
 ---
 
-# BeikeShop Store Preview Video
+# Store Preview
 <p>
   <a href="https://demo.beikeshop.com/" target="_blank" style="border: 1px solid #eee; display: inline-block;">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/demo.gif" style="width: 120%;">
 </a>
 </p>
-
-<a href="https://demo.beikeshop.com/admin/login?admin_email=demo@beikeshop.com&admin_password=demo"
-target="_blank">Click to Experience</a>
----
 
 # Page Previews
 
@@ -128,9 +123,9 @@ target="_blank">Click to Experience</a>
   <video src="https://github.com/user-attachments/assets/22c646ec-696e-4e33-ab26-545f0ee96ee5" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" width="100%">
   </video>
 
-1. **Product Detail Page**
+2. **Product Detail Page**
 ![页面展示3_商品详情页](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-5.png)
-1. **Admin Product List**
+3. **Admin Product List**
 ![页面展示4_后台商品列表](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-6.png)
 
 
