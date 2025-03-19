@@ -30,7 +30,7 @@ The system is 100% open-source! It supports a wide range of practical features, 
 
 ---
 
-# Software Architecture
+# Framework
 
 - **Programming Language**: PHP 8.1
 - **Framework**: Laravel 10
@@ -64,7 +64,7 @@ The system is 100% open-source! It supports a wide range of practical features, 
 
 # Quick start
 
-**Package Installation**
+**Ⅰ. Package Installation**
 1.  <a href="https://beikeshop.cn/download" target="_blank">Download BeikeShop</a>
 2. Upload to your server and unzip.
 3. Set the `public` folder as the website root directory.
@@ -72,7 +72,7 @@ The system is 100% open-source! It supports a wide range of practical features, 
 5. <a href="https://docs.beikeshop.com/en/install/bt.html" target="_blank">BeikeShop Detailed Installation Guide</a>
 6. If upgrading, download the latest version and overwrite on the server (make sure to keep the original `.env` file). Then, run `php artisan migrate` in the root directory.
 
-**Source Code Installation**
+**Ⅱ. Source Code Installation**
 1. Open the command line and clone the repository:
     `git clone https://github.com/beikeshop/beikeshop.git`
 2. Enter the BeikeShop directory and run `composer install` to install third-party packages.
@@ -83,7 +83,7 @@ The system is 100% open-source! It supports a wide range of practical features, 
 7. For upgrades, run:
     `git pull && composer install && php artisan migrate` in the root directory.
 
-**Docker Installation**
+**Ⅲ. Docker Installation**
 1. Install Docker and Compose locally or on the server, refer to the installation guide here: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
 2. Execute the command: `git clone git@gitee.com:beikeshop/docker.git`
 3. Create a new directory named `www` as the website directory: `mkdir www`（See details: [https://docs.beikeshop.com/en/install/docker.html](https://docs.beikeshop.com/en/install/docker.html)）
@@ -125,12 +125,10 @@ target="_blank">Click to Experience</a>
 
 1. **DIY Store Customization**
 
-<video width="100%" height="auto" controls>
-  <source src="https://beikeshop.github.io/beikeshop-resource/DIY_Edit.mp4" type="video/mp4">
-  Your browser does not support the HTML5 video tag.
-</video>
+  <video src="https://github.com/user-attachments/assets/22c646ec-696e-4e33-ab26-545f0ee96ee5" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" width="100%">
+  </video>
 
-2. **Product Detail Page**
+1. **Product Detail Page**
 ![页面展示3_商品详情页](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-5.png)
 1. **Admin Product List**
 ![页面展示4_后台商品列表](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-6.png)
