@@ -1,6 +1,6 @@
 # BeikeShop - An Open Source, User-Friendly Cross-Border E-commerce System
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://beikeshop.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png" alt="logo">
   </a>
@@ -10,8 +10,6 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png" alt="logo">
   </a>
-</div>
-<div align="center">
   <a href="https://beikeshop.com/download" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png" alt="logo">
   </a>
@@ -21,7 +19,12 @@
   <a href="https://beikeshop.com/download" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png" alt="logo">
   </a>
-</div>
+</div> -->
+
+[![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png)](https://beikeshop.com/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-2.png)](https://www.php.net/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png)](https://laravel.com/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png)](https://beikeshop.com/download)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-5.png)](https://beikeshop.com/demo)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png)](https://beikeshop.com/download)
+
+
+
 
 **Introduction to BeikeShop**
 BeikeShop is a globally leading open-source e-commerce system based on the Laravel framework, designed for the international trade and cross-border e-commerce industry.
