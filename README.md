@@ -10,8 +10,6 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png" alt="logo">
   </a>
-</p>
-<p align="center">
   <a href="https://beikeshop.com/download" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png" alt="logo">
   </a>
