@@ -1,6 +1,6 @@
 # BeikeShop - An Open Source, User-Friendly Cross-Border E-commerce System
 
-<p align="center">
+<div align="center">
   <a href="https://beikeshop.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png" alt="logo">
   </a>
@@ -10,6 +10,8 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png" alt="logo">
   </a>
+</div>
+<div align="center">
   <a href="https://beikeshop.com/download" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png" alt="logo">
   </a>
@@ -19,7 +21,7 @@
   <a href="https://beikeshop.com/download" target="_blank">
     <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png" alt="logo">
   </a>
-</p>
+</div>
 
 **Introduction to BeikeShop**
 BeikeShop is a globally leading open-source e-commerce system based on the Laravel framework, designed for the international trade and cross-border e-commerce industry.
