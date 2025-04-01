@@ -1,27 +1,15 @@
 # BeikeShop - An Open Source, User-Friendly Cross-Border E-commerce System
 
-<!-- <div align="center">
-  <a href="https://beikeshop.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png" alt="logo">
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-2.png" alt="logo">
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png" alt="logo">
-  </a>
-  <a href="https://beikeshop.com/download" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png" alt="logo">
-  </a>
-  <a href="https://beikeshop.com/demo" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-5.png" alt="logo">
-  </a>
-  <a href="https://beikeshop.com/download" target="_blank">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png" alt="logo">
-  </a>
-</div> -->
-
-[![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-1.png)](https://beikeshop.com/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-2.png)](https://www.php.net/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-3.png)](https://laravel.com/)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-4.png)](https://beikeshop.com/download)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-5.png)](https://beikeshop.com/demo)  [![logo](https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/logo-6.png)](https://beikeshop.com/download)
+<div align="center">
+  <a href="https://beikeshop.com/" target="_blank"><img src="https://img.shields.io/badge/BeikeShop-%23FF6F30" alt="logo"></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-8.1%2B-%234F5B93?logoColor=%234F5B93&labelColor=%234F5B93" alt="logo"></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/-Laravel%2010-%23FF2D20?logo=laravel&logoColor=%23fff&labelColor=%23FF7467" alt="logo"></a>
+</div>
+<div align="center">
+  <a href="https://beikeshop.com/download" target="_blank"><img src="https://img.shields.io/badge/release-v1.5.6-%234B79B6?labelColor=%234B79B6" alt="logo"></a>
+  <a href="https://beikeshop.com/demo" target="_blank"><img src="https://img.shields.io/badge/Demo-available-%2363B95C?labelColor=%23959494" alt="logo"></a>
+  <a href="https://beikeshop.com/download" target="_blank"><img src="https://img.shields.io/badge/Downloads-163k-%23ED9017?logoColor=%23fff&labelColor=%23c57e37" alt="logo"></a>
+</div>
 
 
 
